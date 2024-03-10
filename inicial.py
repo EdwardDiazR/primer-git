@@ -1,6 +1,1 @@
-#In main
-
-#Segunda basei
-#e
-
-'a'
+print('Hello Inicial')
